@@ -3,7 +3,7 @@ package cmdutil
 import (
 	"io"
 
-	"github.com/hellolib/client-tools.git/larksuite/keychain"
+	"github.com/hellolib/client-tools/app/larksuite/keychain"
 )
 
 type IOStreams struct {

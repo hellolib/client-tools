@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/hellolib/client-tools.git/larksuite/keychain"
-	"github.com/hellolib/client-tools.git/larksuite/output"
-	"github.com/hellolib/client-tools.git/larksuite/validate"
+	"github.com/hellolib/client-tools/app/larksuite/keychain"
+	"github.com/hellolib/client-tools/app/larksuite/output"
+	"github.com/hellolib/client-tools/app/larksuite/validate"
 )
 
 type Identity string

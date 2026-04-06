@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hellolib/client-tools.git/larksuite/cmdutil"
-	"github.com/hellolib/client-tools.git/larksuite/core"
-	"github.com/hellolib/client-tools.git/larksuite/keychain"
-	"github.com/hellolib/client-tools.git/utils"
+	"github.com/hellolib/client-tools/app/larksuite/cmdutil"
+	"github.com/hellolib/client-tools/app/larksuite/core"
+	"github.com/hellolib/client-tools/app/larksuite/keychain"
+	"github.com/hellolib/client-tools/utils"
 	"golang.org/x/term"
 )
 

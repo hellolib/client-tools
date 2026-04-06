@@ -1,4 +1,4 @@
-module github.com/hellolib/client-tools.git
+module github.com/hellolib/client-tools
 
 go 1.25.0
 

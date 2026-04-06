@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/hellolib/client-tools.git/larksuite/output"
+	"github.com/hellolib/client-tools/app/larksuite/output"
 )
 
 var (
